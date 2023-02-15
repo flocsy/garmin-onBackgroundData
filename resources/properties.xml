@@ -1,0 +1,3 @@
+<properties>
+  <property id="v" type="string"></property><!--version-->
+</properties>
